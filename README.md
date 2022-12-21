@@ -1,5 +1,5 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github;My+code+is+and+will+be+open+source+and+follows+the+philosophy+of+the+GNU+license;ENJOY!)](https://git.io/typing-svg)
-- 👀 I’m interested in Linux
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Vinyl&pause=1000&color=F70000&width=435&lines=Welcome+to+my+Github;My+code+is+and+will+be+open+source!;ENJOY!)](https://git.io/typing-svg)
+- 👀 I am a 26 year old Linux user, since I was 17 I am learning and I love it
 - 🌱 I’m currently learning AI
 - https://alexvillalba.rf.gd
 
