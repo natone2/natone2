@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning AI
 - 💻 https://alexvillalba.rf.gd
 
+<script src="https://tryhackme.com/badge/395184"></script>
+
 Sources: https://github.com/DenverCoder1/readme-typing-svg
 <!---
 natone2/natone2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
